@@ -7,7 +7,7 @@
 
   const data = ref([]);
   const isLoading = ref(true);
-  const index = ref(15);
+  const index = ref(1);
   const category = ref(0);
 
   const incrementIndex = () => {
